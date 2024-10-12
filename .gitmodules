@@ -1,3 +1,18 @@
 [submodule "code/backend"]
 	path = code/backend
 	url = https://github.com/PNU-Tree/backend.git
+[submodule "code/Tree-front"]
+	path = code/Tree-front
+	url = https://github.com/PNU-Tree/Tree-front.git
+[submodule "code/unity-FPS-microgame"]
+	path = code/unity-FPS-microgame
+	url = https://github.com/PNU-Tree/unity-FPS-microgame.git
+[submodule "code/Tree-infra"]
+	path = code/Tree-infra
+	url = https://github.com/PNU-Tree/Tree-infra.git
+[submodule "code/unity-HDRP"]
+	path = code/unity-HDRP
+	url = https://github.com/PNU-Tree/unity-HDRP.git
+[submodule "code/database"]
+	path = code/database
+	url = https://github.com/PNU-Tree/database.git
