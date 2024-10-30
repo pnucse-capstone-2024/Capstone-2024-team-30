@@ -12,35 +12,34 @@ WebRTC(Web Real-Time Communication)를 사용하여 실시간 게임 데이터�
 ## 2. 상세 설계
 
 ### 2.1. 시스템 구성도
-
-![](https://github.com/pnucse-capstone-2024/Capstone-2024-team-30/blob/main/%E1%84%80%E1%85%AE%E1%84%89%E1%85%A5%E1%86%BC%E1%84%83%E1%85%A9.png?raw=true)
+![시스템 구성도](https://github.com/user-attachments/assets/b03f4f9b-33b0-41e0-bf5e-91b0c03183ac)
 
 ### 2.2. 사용 기술
-Infra
-Terraform - v1.9.8
-Kubernetes - v1.31.1
-Prometheus - v2.47.0
-Grafana - v10.1.2
+**Infra**
+- Terraform - v1.9.8
+- Kubernetes - v1.31.1
+- Prometheus - v2.47.0
+- Grafana - v10.1.2
 
-Front
-Node - v20.11.0
+**Front**
+- Node - v20.11.0
 
-Unity
-Unity - v2022.3.28f1
+**Unity**
+- Unity - v2022.3.28f1
 
-Backend
-Spring boot - v3.3.4
-Spring Webflux - v6.1.13
-Spring Security - v6.3.3
-R2DBC - v1.0.5
-PostgreSQL - v14
+**Backend**
+- Spring boot - v3.3.4
+- Spring Webflux - v6.1.13
+- Spring Security - v6.3.3
+- R2DBC - v1.0.5
+- PostgreSQL - v14
 
 ## 3. 설치 및 사용 방법
 172.171.134.176 접속
 
 ## 4. 소개 및 시연 영상
 
-https://www.youtube.com/watch?v=HeQP4ZvuC5g&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=30&pp=iAQB
+[![2024년 전기 졸업과저 30 Tree](https://github.com/user-attachments/assets/a6963421-c98e-4ec6-a6d1-0de552c65a97)](https://www.youtube.com/watch?v=HeQP4ZvuC5g&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=30&pp=iAQB)
 
 ## 팀 소개
 이수빈, 02ggang9@gmail.com 인프라 구축
