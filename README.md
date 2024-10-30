@@ -92,7 +92,28 @@ WebRTC(Web Real-Time Communication)를 사용하여 실시간 게임 데이터�
 - PostgreSQL - v14
 
 ## 3. 설치 및 사용 방법
-172.171.134.176 접속
+
+
+### 프론트엔드 서버
+
+`npm run start` 명령어를 통해 로컬 개발 서버를 실행합니다.
+
+### 백엔드 서버(Spring Boot)
+
+Spring Boot 백엔드 서버는 `./mvnw spring-boot:run` 명령어를 통해 실행합니다. 프로젝트 디렉토리 내에서 실행해야 하며, 정상 실행 여부는 로그로 확인합니다.
+
+### 데이터베이스 서버(PostgreSQL)
+
+PostgreSQL 데이터베이스 서버를 Docker로 설정합니다. 필요한 환경 변수는 다음과 같습니다:
+- `POSTGRES_USER`: 데이터베이스 사용자 이름
+- `POSTGRES_PASSWORD`: 데이터베이스 비밀번호
+- `POSTGRES_DB`: 생성할 데이터베이스 이름
+
+Docker를 통해 컨테이너를 생성하고 실행합니다.
+
+### 유니티 게임 렌더링
+
+Unity Hub를 사용하여 GitHub에서 클론한 프로젝트를 연 다음, 구글 STUN 서버(`stun:stun.l.google.com:19302`)를 이용해 Render Streaming URL을 설정합니다. Unity Hub에서 렌더링 시작 버튼을 클릭하여 스트리밍을 시작합니다.
 
 ## 4. 소개 및 시연 영상
 ### 1. 홈
