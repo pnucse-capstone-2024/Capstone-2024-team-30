@@ -1,18 +1,24 @@
-[submodule "code/backend"]
-	path = code/backend
-	url = https://github.com/PNU-Tree/backend.git
-[submodule "code/Tree-front"]
-	path = code/Tree-front
-	url = https://github.com/PNU-Tree/Tree-front.git
-[submodule "code/unity-FPS-microgame"]
-	path = code/unity-FPS-microgame
-	url = https://github.com/PNU-Tree/unity-FPS-microgame.git
-[submodule "code/Tree-infra"]
-	path = code/Tree-infra
-	url = https://github.com/PNU-Tree/Tree-infra.git
-[submodule "code/unity-HDRP"]
-	path = code/unity-HDRP
-	url = https://github.com/PNU-Tree/unity-HDRP.git
-[submodule "code/database"]
-	path = code/database
-	url = https://github.com/PNU-Tree/database.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/PNU-Tree/Tree-front
+[submodule "Unity-FPS"]
+	path = Unity-FPS
+	url = https://github.com/PNU-Tree/unity-FPS-microgame
+[submodule "Unity-HDRP"]
+	path = Unity-HDRP
+	url = https://github.com/PNU-Tree/unity-HDRP
+[submodule "WebRTC-HDRP"]
+	path = WebRTC-HDRP
+	url = https://github.com/PNU-Tree/HDRP-signaling
+[submodule "WebRTC-FPS"]
+	path = WebRTC-FPS
+	url = https://github.com/PNU-Tree/FPS-signaling
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/PNU-Tree/backend
+[submodule "Infra"]
+	path = Infra
+	url = https://github.com/PNU-Tree/Tree-infra
+[submodule "Database"]
+	path = Database
+	url = https://github.com/PNU-Tree/database
