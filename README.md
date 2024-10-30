@@ -38,7 +38,36 @@
 172.171.134.176 접속
 
 ## 4. 소개 및 시연 영상
+### 1. 홈
+![홈화면](https://github.com/user-attachments/assets/6de33f60-8fb8-45b9-97e5-e8fbfbab60f9)
 
+사용자는 언제든지 웹 브라우저를 통해 서비스에 접속하여 게임을 실행할 수 있다.
+
+### 2. 회원가입
+![회원가입 화면](https://github.com/user-attachments/assets/3a4b5c69-3df5-4749-8b28-503d78ddd14f)
+
+사용자는 닉네임, 비밀번호를 형식에 맞게 입력한 후 회원가입을 할 수 있다.
+
+### 3. 로그인
+![로그인 화면](https://github.com/user-attachments/assets/eeaf4fb6-01cf-4e43-ab32-fe887f2ea0db)
+
+사용자는 회원가입한 계정으로 로그인할 수 있다. 
+
+로그인 결과 반환되는 정보를 localStorage에 저장하여 다시 접속했을 때에도 로그인 정보가 남아있도록 하였다.
+
+### 4. 게임 플레이
+![게임플레이화면](https://github.com/user-attachments/assets/1f63c05c-4d77-4b9a-ba55-476a19023943)
+
+WebRTC를 통해 스트리밍 되는 게임 영상을 받을 수 있다. 
+
+전체 화면 버튼을 클릭하여 여백없는 화면으로 게임을 실행할 수도 있다.
+
+### 5. 랭킹
+![랭킹화면](https://github.com/user-attachments/assets/49aeefd9-9d31-49f9-a3e3-7f92698a7f89)
+
+사용자가 게임을 클리어한 시간에 따른 순위를 볼 수 있다.
+
+### 6. 영상
 [![2024년 전기 졸업과저 30 Tree](https://github.com/user-attachments/assets/a6963421-c98e-4ec6-a6d1-0de552c65a97)](https://www.youtube.com/watch?v=HeQP4ZvuC5g&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=30&pp=iAQB)
 
 ## 팀 소개
