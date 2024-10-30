@@ -38,9 +38,12 @@ PostgreSQL - v14
 172.171.134.176 접속
 
 ## 4. 소개 및 시연 영상
-[](https://www.youtube.com/watch?v=HeQP4ZvuC5g&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=30&pp=iAQB)
+
+[](https://www.youtube.com/watch?v=HeQP4ZvuC5g&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=30&pp=iAQB_
 
 ## 팀 소개
 이수빈, 02ggang9@gmail.com 인프라 구축
+
 이다은, laliddang@gmail.com 프론트, Unity 개발
+
 이지민, min102602@naver.com 백엔드 개발, DB 구축
