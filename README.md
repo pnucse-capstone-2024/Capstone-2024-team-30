@@ -11,7 +11,7 @@ WebRTC(Web Real-Time Communication)를 사용하여 실시간 게임 데이터�
 
 ## 2. 상세 설계
 
-###2.1. 시스템 구성도
+### 2.1. 시스템 구성도
 
 ![](https://github.com/pnucse-capstone-2024/Capstone-2024-team-30/blob/main/%E1%84%80%E1%85%AE%E1%84%89%E1%85%A5%E1%86%BC%E1%84%83%E1%85%A9.png?raw=true)
 
@@ -40,7 +40,7 @@ PostgreSQL - v14
 
 ## 4. 소개 및 시연 영상
 
-https://www.youtube.com/watch?v=HeQP4ZvuC5g&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=30&pp=iAQB_
+https://www.youtube.com/watch?v=HeQP4ZvuC5g&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=30&pp=iAQB
 
 ## 팀 소개
 이수빈, 02ggang9@gmail.com 인프라 구축
