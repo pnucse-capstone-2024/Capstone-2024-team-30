@@ -42,8 +42,56 @@ WebRTC(Web Real-Time Communication)를 사용하여 실시간 게임 데이터�
 [![2024년 전기 졸업과저 30 Tree](https://github.com/user-attachments/assets/a6963421-c98e-4ec6-a6d1-0de552c65a97)](https://www.youtube.com/watch?v=HeQP4ZvuC5g&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=30&pp=iAQB)
 
 ## 팀 소개
-이수빈, 02ggang9@gmail.com 인프라 구축
-
-이다은, laliddang@gmail.com 프론트, Unity 개발
-
-이지민, min102602@naver.com 백엔드 개발, DB 구축
+<div align="left">
+  <table>
+  <tr>
+    <td align="center">
+      이수빈
+    </td>    
+    </td>
+    <td align="center">
+      이다은 
+    </td>
+    <td align="center">
+      이지민
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/02ggang9">
+        <img src="https://github.com/02ggang9.png" width="80" alt="02ggang9"/>
+        <br/>
+        <sub><b>02ggang9@gmail.com</b></sub>
+      </a>
+      <br/>
+    </td>
+    <td align="center">
+      <a href="https://github.com/llddang">
+      <img src="https://github.com/llddang.png" width="80" alt="llddang"/>
+      <br />
+      <sub><b>laliddang@gmail.com</b></sub>
+      </a>
+      <br/>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JJimini">
+      <img src="https://github.com/JJimini.png" width="80" alt="JJimini"/>
+      <br />
+      <sub><b>min102602@naver.com</b></sub>
+      </a>
+      <br/>
+    </td>
+  </tr>
+      <tr>
+    <td align="center">
+      Infra
+    </td>    
+    <td align="center">
+      Frontend, Unity
+    </td>
+    <td align="center">
+      Backend, Database
+    </td>
+  </tr>
+  </table>
+</div>
