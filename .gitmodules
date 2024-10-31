@@ -1,0 +1,24 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/PNU-Tree/Tree-front
+[submodule "Unity-FPS"]
+	path = Unity-FPS
+	url = https://github.com/PNU-Tree/unity-FPS-microgame
+[submodule "Unity-HDRP"]
+	path = Unity-HDRP
+	url = https://github.com/PNU-Tree/unity-HDRP
+[submodule "WebRTC-HDRP"]
+	path = WebRTC-HDRP
+	url = https://github.com/PNU-Tree/HDRP-signaling
+[submodule "WebRTC-FPS"]
+	path = WebRTC-FPS
+	url = https://github.com/PNU-Tree/FPS-signaling
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/PNU-Tree/backend
+[submodule "Infra"]
+	path = Infra
+	url = https://github.com/PNU-Tree/Tree-infra
+[submodule "Database"]
+	path = Database
+	url = https://github.com/PNU-Tree/database
